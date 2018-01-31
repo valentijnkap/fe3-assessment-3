@@ -1,37 +1,13 @@
-# ![Assessment 3][banner]
+# Assessment 3
 
-This repository can be forked for [**assessment 3**][a2] of [frontend 3][fe3]
-at [**@CMDA**][cmda].
+!(Preview)[preview.png]
 
-## TODO
+## Background
+In this assessment I made dashboard from some data about are population. The data has many levels of values about the population. I wanted to visualize that in a dashboard where you see those values based on the year you select.
 
-*   [ ] [GitHub Pages](#github-pages)
-*   [ ] [Metadata](#metadata)
-*   [ ] [Issues](#issues)
-*   [ ] Replace this document in your fork with your own readme!
+## The dataset
+The data I used is taken from the website [cbs.nl](http://statline.cbs.nl/Statweb/publication/?DM=SLEN&PA=37296eng&D1=a&D2=0,10,20,30,40,50,60,(l-1,l&LA=EN&HDR=G1&STB=T&VW=T) and shows us how you can categorize our population in the Netherlands. It shows de population of males and females, marital status, by age and more.
 
-## GitHub Pages
 
-Set up [GitHub Pages][pages] for this fork through the **Settings** pane.  Use
-the **Master branch** as its source.  Do not choose a Jekyll template.
-
-## Metadata
-
-Edit the **description** and **url** of your repository.  Click on edit above
-the green Clone or download button and fill in a correct description and use the
-`github.io` URL you just set up.
-
-## Issues
-
-Enable issues so we can give feedback by going to the settings tab of your fork
-and checking the box next to `issues`.
-
-[banner]: https://cdn.rawgit.com/cmda-fe3/logo/a4b0614/banner-assessment-3.svg
-
-[a2]: https://github.com/cmda-fe3/course-17-18/tree/master/assessment-3#description
-
-[fe3]: https://github.com/cmda-fe3
-
-[cmda]: https://github.com/cmda
-
-[pages]: https://pages.github.com
+## License
+[GNU General Public License, version 3.](https://opensource.org/licenses/GPL-3.0)
