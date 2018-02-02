@@ -16,6 +16,9 @@ I downloaded it as a ```.csv``` file en requested it via d3. At first I started 
 - [ ] Make a unique design for all of the data and the graphs so it would look like a infographic
 - [ ] Make it interactive so people can do something with it.
 
+## The demo
+Ofcourse there's nothing to show right now but when I have finishd the to do list you can see the demo [here](https://valentijnkap.github.io/fe3-assessment-3/)
+
 
 ## License
 [GNU General Public License, version 3.](https://opensource.org/licenses/GPL-3.0)
